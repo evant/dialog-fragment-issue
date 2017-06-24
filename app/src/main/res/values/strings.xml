@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogFragmentIssue</string>
+    <string name="orientation">Portrait</string>
+</resources>
